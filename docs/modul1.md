@@ -65,6 +65,7 @@ Aplikasi Web untuk klasifikasi gangguan kesehatan mata
 | **Key Competitive Advantage & Unique Value** |
 |-|
 | Memiliki jaringan kerjasama dengan klinik dan rating kepuasan user |
+
 source: [Klinikoo](https://klinikoo.id/)
 
 #### **_Kompetitor 2_**
@@ -98,4 +99,5 @@ source: [Klinikoo](https://klinikoo.id/)
 | **Key Competitive Advantage & Unique Value** |
 |-|
 | Memiliki eksposur hingga ke luar negeri melalui event Dev Fest |
+
 source: [CekMata.com](https://www.telkomsel.com/about-us/blogs/cekmatacom-membantu-mendeteksi-katarak-dengan-ai-tech)
