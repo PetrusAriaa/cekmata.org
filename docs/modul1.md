@@ -52,22 +52,22 @@ Aplikasi Web untuk klasifikasi gangguan kesehatan mata
 ### **e. Analisis Kompetitor**
 #### **_Kompetitor 1_**
 
-| Nama | Kliniko |
+| **Nama** | Kliniko |
 |-|-|
-| Jenis Kompetitor | Indirect |
-| Jenis Produk | Aplikasi Web Konsultasi kesehatan Gigi |
-| Target Customer | - Pasien dengan masalah gigi
-- Manajemen RS atau klinik kesehatan gigi |
+| **Jenis Kompetitor** | Indirect |
+| **Jenis Produk** | Aplikasi Web Konsultasi kesehatan Gigi |
+| **Target Customer** | Pasien dengan masalah gigi <br> Manajemen RS atau Klinik |
 
-| Kelebihan | Kekurangan |
+| **Kelebihan** | **Kekurangan** |
 |-|-|
-| -sudah berjalan selama lebih dari 1 tahun | Ketergantungan pada platform tunggal dapat menjadi gangguan ketika service down.                       |
-| Membantu merespon customer dengan cepat dari berbagai platform dan dikelola dari satu tempat terpusat. | Semua komunikasi dihandle oleh pihak eksternal perusahaan yang mungkin mengurangi kedalaman interaksi. |
-| Dapat diintegrasikan ke berbagai sistem atau aplikasi lain sesuai flow yang dibutuhkan bisnis.         |                                                                                                        |
+| sudah berjalan selama lebih dari 1 tahun <br> Memiliki sistem kerjasama dengan RS
+atau klinik | Tidak digunakan secara langsung
+oleh pasien, tetapi digunakan oleh
+managementnya. |
 
-| Key Competitive Advantage & Unique Value                                                                                         |
-| -------------------------------------------------------------------------------------------------------------------------------- |
-| Produk kami lebih terfokus pada AI Customer Service Assistant, tidak menyebar ke human assistant, app integration, dan marketing |
+| **Key Competitive Advantage & Unique Value** |
+|-|
+| Memiliki jaringan kerjasama dengan klinik dan rating kepuasan user |
 
 #### **_Kompetitor 2_**
 
