@@ -60,47 +60,42 @@ Aplikasi Web untuk klasifikasi gangguan kesehatan mata
 
 | **Kelebihan** | **Kekurangan** |
 |-|-|
-| sudah berjalan selama lebih dari 1 tahun <br> Memiliki sistem kerjasama dengan RS
-atau klinik | Tidak digunakan secara langsung
-oleh pasien, tetapi digunakan oleh
-managementnya. |
+| sudah berjalan selama lebih dari 1 tahun <br> Memiliki sistem kerjasama dengan RS atau klinik | Tidak digunakan secara langsung oleh pasien, tetapi digunakan oleh managementnya. |
 
 | **Key Competitive Advantage & Unique Value** |
 |-|
 | Memiliki jaringan kerjasama dengan klinik dan rating kepuasan user |
+source: [Klinikoo](https://klinikoo.id/)
 
 #### **_Kompetitor 2_**
 
-| Nama Kompetitor  | [CrampasAI](https://www.padiumkm.id/product/ai-powered-dashboard/65800fc23cff436a8d5bc662) |
-| ---------------- | ------------------------------------------------------------------------------------------ |
-| Jenis Kompetitor | Direct Competitor                                                                          |
-| Jenis Produk     | AI Powered Dashboard                                                                       |
-| Target Customer  | Enterprise & Perusahaan besar                                                              |
+| **Nama** | Visual Acuity Test |
+|-|-|
+| **Jenis Kompetitor** | Indirect |
+| **Jenis Produk** | aplikasi untuk melakukan tes kesehatan mata |
+| **Target Customer** | pengguna yang memiliki masalah kesehatan mata |
 
-| Kelebihan                                                 | Kekurangan                                                                    |
-| --------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| Dilengkapi fitur AI Operations dan AI Information.        | Biayanya mahal karena target pasarnya adalah enterprise dan perusahaan besar. |
-| Include dengan jasa training employee dan jasa integrasi. |                                                                               |
-| Mensupport image dan chart generation.                    |                                                                               |
+| **Kelebihan** | **Kekurangan** |
+|-|-|
+| Banyak tes yang dapat digunakan untuk mendeteksi kesehatan mata <br> test berbasis permainan interaktif dan test pada umumnya | terdapat beberapa ulasan negatif <br> tidak menggunakan model klasifikasi |
 
-| Key Competitive Advantage & Unique Value                                                                                      |
-| ----------------------------------------------------------------------------------------------------------------------------- |
-| Produk yang kami tawarkan lebih sederhana dan ditujukan untuk perusahaan level kecil sehingga lebih murah daripada CrampasAI. |
+| **Key Competitive Advantage & Unique Value**                       |
+| ------------------------------------------------------------------ |
+| Menggunakan metode permainan interaktif untuk menentukan kondisi kesehatan mata pengguna |
 
 #### **_Kompetitor 3_**
 
-| Nama Kompetitor  | [Tableau](https://www.tableau.com)                                 |
-| ---------------- | ------------------------------------------------------------------ |
-| Jenis Kompetitor | Tertiary Competitor                                                |
-| Jenis Produk     | Data Visualization using AI                                        |
-| Target Customer  | Organisasi yang bergantung pada data untuk membuat suatu keputusan |
+| **Nama** | CekMata.Com |
+|-|-|
+| **Jenis Kompetitor** | Direct |
+| **Jenis Produk** | Aplikasi Mobile untuk deteksi gangguan kesehatan mata berupa katarak |
+| **Target Customer** | Masyarakat umum yang ingin mengetahui kondisi kesehatan mata <br> Orang yang terindikasi mengalami gejala |
 
-| Kelebihan                       | Kekurangan                                                            |
-| ------------------------------- | --------------------------------------------------------------------- |
-| Menyediakan data visualization. | Lebih terfokus pada visualisasi data dan bukan pada customer service. |
-| Implementasi yang mudah.        |                                                                       |
-| Dashboard yang responsif.       |                                                                       |
+| **Kelebihan** | **Kekurangan** |
+|-|-|
+| Sudah berjalan sejak 2018 | Hanya melakukan pengecekan satu kondisi kesehatan mata <br> Menggunakan mobile app sehingga proses update memakan effort yang cukup banyak |
 
-| Key Competitive Advantage & Unique Value                                                                          |
-| ----------------------------------------------------------------------------------------------------------------- |
-| Produk kami lebih terfokus pada AI Customer Service Assistant, tidak menyebar ke pengolahan dan visualisasi data. |
+| **Key Competitive Advantage & Unique Value** |
+|-|
+| Memiliki eksposur hingga ke luar negeri melalui event Dev Fest |
+source: [CekMata.com](https://www.telkomsel.com/about-us/blogs/cekmatacom-membantu-mendeteksi-katarak-dengan-ai-tech)
