@@ -42,24 +42,26 @@ Aplikasi Web untuk klasifikasi gangguan kesehatan mata
 
 #### **_Rancangan Fitur Solusi:_**
 
-| Fitur                    | Keterangan                                                                                               |
-| ------------------------ | -------------------------------------------------------------------------------------------------------- |
-| Upload Image             | Pengguna melakukan upload gambar mata yang menunjukan kondisi gangguan kesehatan mata                    |
-| ------------------------ | -------------------------------------------------------------------------------------------------------- |
-| Image Classification     | Proses analisis kondisi kesehatan mata dengan metode image classification                                |
-| ------------------------ | -------------------------------------------------------------------------------------------------------- |
-| Recommendation           | Pengguna mendapatkan penjelasan dan rekomendasi dari kondisi gangguan kesehatan mata yang sedang dialami |
+| Fitur | Keterangan |
+|-|-|
+| Upload Image | Pengguna melakukan upload gambar mata yang menunjukan kondisi gangguan kesehatan mata |
+| Image Classification | Proses analisis kondisi kesehatan mata dengan metode image classification |
+| Recommendation | Pengguna mendapatkan penjelasan dan rekomendasi dari kondisi gangguan kesehatan mata yang sedang dialami |
 
 
 ### **e. Analisis Kompetitor**
 #### **_Kompetitor 1_**
 
-| Nama Kompetitor  | [Qiscus](https://www.qiscus.com/id)      |
-| ---------------- | ---------------------------------------- |
+| Nama | Kliniko |
+|-|-|
+| Jenis Kompetitor | Indirect |
+| Jenis Produk | Aplikasi Web Konsultasi kesehatan Gigi |
+| Target Customer | - Pasien dengan masalah gigi
+- Manajemen RS atau klinik kesehatan gigi |
 
-| Kelebihan                                                                                              | Kekurangan                                                                                             |
-| ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------ |
-| Memberikan jasa customer service bot maupun manusia.                                                   | Ketergantungan pada platform tunggal dapat menjadi gangguan ketika service down.                       |
+| Kelebihan | Kekurangan |
+|-|-|
+| -sudah berjalan selama lebih dari 1 tahun | Ketergantungan pada platform tunggal dapat menjadi gangguan ketika service down.                       |
 | Membantu merespon customer dengan cepat dari berbagai platform dan dikelola dari satu tempat terpusat. | Semua komunikasi dihandle oleh pihak eksternal perusahaan yang mungkin mengurangi kedalaman interaksi. |
 | Dapat diintegrasikan ke berbagai sistem atau aplikasi lain sesuai flow yang dibutuhkan bisnis.         |                                                                                                        |
 
