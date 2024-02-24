@@ -42,7 +42,7 @@ Aplikasi Web untuk klasifikasi gangguan kesehatan mata
 
 #### **_Rancangan Fitur Solusi:_**
 
-| Fitur                    | Keterangan      |
+| Fitur                    | Keterangan                                                                                               |
 | ------------------------ | -------------------------------------------------------------------------------------------------------- |
 | Upload Image             | Pengguna melakukan upload gambar mata yang menunjukan kondisi gangguan kesehatan mata                    |
 | ------------------------ | -------------------------------------------------------------------------------------------------------- |
