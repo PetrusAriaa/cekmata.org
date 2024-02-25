@@ -1,0 +1,3 @@
+[submodule "cekmata-backend"]
+	path = cekmata-backend
+	url = git@github.com:PetrusAriaa/CekMata.org-Backend.git
