@@ -27,6 +27,7 @@ description: Modul 2 Senior Project 2024
 <img src="./public/pict_UseCase.png">
 
 ### **d. Functional requirements untuk use case yang telah dirancang**
+
 | FR | Deskripsi |
 |-|-|
 | Registrasi Pengguna | Pengguna harus dapat membuat akun baru untuk mengakses fitur-fitur aplikasi. Form Registrasi (nama, email, dan kata sandi.) dan  Verifikasi email |
