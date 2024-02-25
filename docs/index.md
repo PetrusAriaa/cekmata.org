@@ -9,5 +9,5 @@ Project Senior Project TI
 Departemen Teknik Elektro dan Teknologi Informasi, Fakultas Teknik, Universitas Gadjah Mada
 
 ### Praktikum
-- [Modul 1](./modul1.html)
-- [Modul 2](./modul2.html)
+- [Modul 1](./modul1.md)
+- [Modul 2](./modul2.md)

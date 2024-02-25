@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Modul 1
-description: Modul 1 Senior Project 2024
+title: Modul 2
+description: Modul 2 Senior Project 2024
 ---
 
 # **Modul 2**
