@@ -5,3 +5,9 @@
 [submodule "cekmata-frontend"]
 	path = cekmata-frontend
 	url = git@github.com:PetrusAriaa/cekmata.org-frontend.git
+[submodule "cekmata-Classification"]
+	path = cekmata-Classification
+	url = https://github.com/Rafly09zr/cekmata-Classification.git
+[submodule "cekmata-classification"]
+	path = cekmata-classification
+	url = https://github.com/Rafly09zr/cekmata-Classification.git
